@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
    dogs = ["dog", "lab", "am", "array"]
-  dogs[3] 
+  dogs.last 
 end
