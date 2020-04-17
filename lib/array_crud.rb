@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
  dogs = ["dog"]
-  dogs .#unshift "arrays!" 
+  dogs .unshift "arrays!" 
 end
 
 def remove_element_from_end_of_array(array)
