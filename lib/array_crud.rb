@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   dogs = ["dog" "lab"]
-  dogs "arrays".pop
+  dogs = dogs.pop
 end
 
 def remove_element_from_start_of_array(array)
